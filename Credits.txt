@@ -9,7 +9,6 @@ Raw Zebra
 Uksus
 Sierr
 Licoad
-VisscaGem
 
 <Title>Animations:
 Raw Zebra
@@ -39,7 +38,6 @@ Uksus
 Licoad
 VisscaGem
 Vinster Minster
-Mantis Girl
 am3
 FreakKnife
 Wahoo
@@ -51,7 +49,6 @@ dxty/Dusty
 <Title>Writing:
 Azuran_SHadow
 Raw Zebra
-VisscaGem
 Jobo
 Gob
 
@@ -62,52 +59,9 @@ OndrBondr
 Pupka
 
 <Title>Portuguese Translator:
-VisscaGem
 Kaww
 Olaf
 Erick the PinkSauce
 
 <Title>Special thanks to:
-sophiestrawberry
-Rebeka the Bowgart
-FreakKnife
-TrebleStroke
-Jobo
-Zhanya Gennadiy
-Balls
-salt for some reason
-Verenne
-Vinster_Minster
-Wahoo
-FreakKnife
-ShiningStar
-BonnieGem
-Sox O'Phone
-gegeman
-Rebeka the Bowgart
-Mr. Peep
-dxty/Dusty
-Olaf
-Spectral
-Tapry
-OndrBondr
-ADAM
-Blake at Stake
-Jazzberry
-Kaww
-Licoad
-magnacrabb
-Matmat
-Matthew the Bowgart
-JakeTheDrake
-Qualm 
-DaylenGG
-Uksus
-sophiestrawberry
-Vandinn Celeste
-Vubu
-Wubbazt
-Gob
-Louize
-Pupka
-Yerny
+Raw Zebra
